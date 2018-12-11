@@ -1,0 +1,19 @@
+li{
+    text-decoration: black;
+    font-style: oblique;
+    
+}
+body{
+    width:600;
+    margin:auto;
+    background-color:grey;
+}
+a{
+    text-decoration: none;
+}
+li{
+    font-style: italic;
+}
+article{
+    font-size:25px;
+}
